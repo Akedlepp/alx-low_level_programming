@@ -1,0 +1,1 @@
+This is the directory in my first C prokect 0x00-hello_world
