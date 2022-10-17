@@ -12,9 +12,10 @@ int main(void)
 	for (la = 'a'; la <= 'z'; la++)
 	{
 		if (la != 'e' && la != 'q')
-			putint(la);
+			puchar(la);
 	}
 
-	putint('\n');
+	putchar('\n');
 
 	return (0);
+}
